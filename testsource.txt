@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testsasasasasasa bulunc3_test2_2 test2_3 iiiiiii
+=======
+testsasasasasasa bulunc3_test2_2 test2_3 addddd
+>>>>>>> ebb65bc3dddedd28a40c0304326522b53183cddc
